@@ -1,2 +1,2 @@
 # NanoPot
-A tiny honeypot script written in python
+An ultra tiny honeypot script written in python.
