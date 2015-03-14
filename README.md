@@ -1,4 +1,4 @@
-# NanoPot
+# NanoPot.py
 An ultra tiny honeypot and logger script written in python 
 
 NanoPot Runs on port 80,8080,22,21,23 and 443 and i'll add an option to select the ports to listen at from the command line but i'm too sleepy to do it now.
